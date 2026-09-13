@@ -97,6 +97,8 @@ python -m app.pipeline "3 cartons of Coke (1kg)"
 
 Python 3.10+. Developed on 3.13, Windows.
 
+You also may check the demo video here, considering to run this project you have to utilize third party LLM Provider: https://drive.google.com/file/d/1EgFqRWLIUKD8DzsxMAo7424bCFSpuDJy/view?usp=sharing
+
 ### Setup
 
 ```bash
